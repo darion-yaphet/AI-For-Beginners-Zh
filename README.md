@@ -3,8 +3,6 @@
 
 ![img](https://img.shields.io/github/license/microsoft/AI-For-Beginners.svg)![img](https://img.shields.io/github/contributors/microsoft/AI-For-Beginners.svg)![img](https://img.shields.io/github/issues/microsoft/AI-For-Beginners.svg)![img](https://img.shields.io/github/issues-pr/microsoft/AI-For-Beginners.svg)![img](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 
-![img](https://img.shields.io/github/watchers/microsoft/AI-For-Beginners.svg?style=social&label=Watch)
-
 ## 人工智能初学者课程
 
 通过我们为期12周、共24课的完整课程体系，探索**人工智能**（AI）的奇妙世界！课程包含实践课程、测验和实验环节，专为初学者设计，涵盖TensorFlow、PyTorch等工具以及AI伦理知识。
